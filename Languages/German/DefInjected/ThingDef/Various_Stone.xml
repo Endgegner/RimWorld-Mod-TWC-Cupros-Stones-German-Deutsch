@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Claystone -->
+
+  <Claystone.label>Tonstein</Claystone.label>
+  <Claystone.description>Ein weiches, feinkörniges Sedimentgestein, das hauptsächlich aus verdichteten Tonpartikeln besteht.</Claystone.description>
+
+  <SmoothedClaystone.label>Geglätteter Tonstein</SmoothedClaystone.label>
+  <SmoothedClaystone.description>Ein weiches, feinkörniges Sedimentgestein, das hauptsächlich aus verdichteten Tonpartikeln besteht. Die Oberfläche wurde seidig matt poliert.</SmoothedClaystone.description>
+
+  <ChunkClaystone.label>Tonsteinbrocken</ChunkClaystone.label>
+  <ChunkClaystone.description>Ein Felsbrocken. Man kann hier Steinblöcke herausschlagen.</ChunkClaystone.description>
+
+  <BlocksClaystone.label>Tonsteinblöcke</BlocksClaystone.label>
+  <BlocksClaystone.description>Blöcke aus festem Tonstein. Ein weicher Stein, der leicht zerplatzt.</BlocksClaystone.description>
+  <BlocksClaystone.stuffProps.stuffAdjective>Tonstein</BlocksClaystone.stuffProps.stuffAdjective>
+
+
+  <!-- Andesite -->
+
+  <Andesite.label>Andesit</Andesite.label>
+  <Andesite.description>Ein feinkörniges Magmagestein, das in Bergregionen vorkommt und durch kontinentale Kollisionen an die Oberfläche befördert wurde. Andesit ist ein extrusives Äquivalent zu Diorit.</Andesite.description>
+
+  <SmoothedAndesite.label>Geglätteter Andesit</SmoothedAndesite.label>
+  <SmoothedAndesite.description>Ein feinkörniges Magmagestein, das in Bergregionen vorkommt und durch kontinentale Kollisionen an die Oberfläche gebracht wurde. Auf Hochglanz poliert.</SmoothedAndesite.description>
+
+  <ChunkAndesite.label>Andesitbrocken</ChunkAndesite.label>
+  <ChunkAndesite.description>Ein Felsbrocken. Man kann hier Steinblöcke herausschlagen.</ChunkAndesite.description>
+
+  <BlocksAndesite.label>Andesitblöcke</BlocksAndesite.label>
+  <BlocksAndesite.description>Blöcke aus festem Andesit. Ein recht harter Stein.</BlocksAndesite.description>
+  <BlocksAndesite.stuffProps.stuffAdjective>Andesit</BlocksAndesite.stuffProps.stuffAdjective>
+
+
+  <!-- Syenite -->
+
+  <Syenite.label>Syenit</Syenite.label>
+  <Syenite.description>Ein grobkörniges Eruptivgestein, das eng mit Granit verwandt ist, aber wenig oder keinen Quarz enthält.</Syenite.description>
+
+  <SmoothedSyenite.label>Geglätteter Syenit</SmoothedSyenite.label>
+  <SmoothedSyenite.description>Ein grobkörniges Eruptivgestein, das eng mit Granit verwandt ist, aber wenig oder keinen Quarz enthält. Geglättet zu einem stumpfen Glanz.</SmoothedSyenite.description>
+
+  <ChunkSyenite.label>Syenitbrocken</ChunkSyenite.label>
+  <ChunkSyenite.description>Ein Felsbrocken. Man kann hier Steinblöcke herausschlagen.</ChunkSyenite.description>
+
+  <BlocksSyenite.label>Syenitblöcke</BlocksSyenite.label>
+  <BlocksSyenite.description>Blöcke aus festem Syenit. Ein harter Stein.</BlocksSyenite.description>
+  <BlocksSyenite.stuffProps.stuffAdjective>Syenit</BlocksSyenite.stuffProps.stuffAdjective>
+
+
+  <!-- Gneiss -->
+
+  <Gneiss.label>Gneiss</Gneiss.label>
+  <Gneiss.description>Ein hartes metamorphes Felsgestein mit gebänderter Paralleltextur.</Gneiss.description>
+
+  <SmoothedGneiss.label>Geglätteter Gneiss</SmoothedGneiss.label>
+  <SmoothedGneiss.description>Ein hartes metamorphes Felsgestein mit gebänderter Paralleltextur. Sieht wunderschön aus, wenn es poliert ist.</SmoothedGneiss.description>
+
+  <ChunkGneiss.label>Gneissbrocken</ChunkGneiss.label>
+  <ChunkGneiss.description>Ein Felsbrocken. Man kann hier Steinblöcke herausschlagen.</ChunkGneiss.description>
+
+  <BlocksGneiss.label>Gneissblöcke</BlocksGneiss.label>
+  <BlocksGneiss.description>Blöcke aus festem Gneiss. Ein solides Gestein.</BlocksGneiss.description>
+  <BlocksGneiss.stuffProps.stuffAdjective>Gneiss</BlocksGneiss.stuffProps.stuffAdjective>
+
+
+  <!-- Quartzite -->
+
+  <Quartzite.label>Quarzit</Quartzite.label>
+  <Quartzite.description>Quarzite sind fein- bis mittelkörnige metamorphe Gesteine, die einen hohen Anteil an Quarzgehalt aufweisen. Sie entstehen aus Sandstein und zeichnen sich durch relativ große Beständigkeit gegenüber Umwelteinflüssen aus.</Quartzite.description>
+
+  <SmoothedQuartzite.label>Geglätteter Quarzit</SmoothedQuartzite.label>
+  <SmoothedQuartzite.description>Quarzite sind fein- bis mittelkörnige metamorphe Gesteine, die einen hohen Anteil an Quarzgehalt aufweisen. Sie entstehen aus Sandstein und zeichnen sich durch relativ große Beständigkeit gegenüber Umwelteinflüssen aus. Die Oberfläche erhält einen ganz eigenen Charakter beim Polieren.</SmoothedQuartzite.description>
+
+  <ChunkQuartzite.label>Quarzitbrocken</ChunkQuartzite.label>
+  <ChunkQuartzite.description>Ein Felsbrocken. Man kann hier Steinblöcke herausschlagen.</ChunkQuartzite.description>
+
+  <BlocksQuartzite.label>Quarzitblöcke</BlocksQuartzite.label>
+  <BlocksQuartzite.description>Blöcke aus festem Quarzit. Ein solides Gestein.</BlocksQuartzite.description>
+  <BlocksQuartzite.stuffProps.stuffAdjective>Quarzit</BlocksQuartzite.stuffProps.stuffAdjective>
+
+
+  <!-- Schist -->
+
+  <Schist.label>Glimmer</Schist.label>
+  <Schist.description>Ein metamorphes Gestein, gefärbt mit den Mineralien Aktinolith (Strahlstein) und Epidot. Es wird auch Glimmerschiefer genannt. Wirft an seinen Bruchstellen mattes Licht zurück.</Schist.description>
+
+  <SmoothedSchist.label>Geglätteter Glimmer</SmoothedSchist.label>
+  <SmoothedSchist.description>Ein metamorphes Gestein, gefärbt mit den Mineralien Aktinolith (Strahlstein) und Epidot. Wirft an seinen Bruchstellen Licht zurück. Die Oberfläche wurde seidig matt poliert.</SmoothedSchist.description>
+
+  <ChunkSchist.label>Glimmersteinbrocken</ChunkSchist.label>
+  <ChunkSchist.description>Ein Felsbrocken. Man kann hier Steinblöcke herausschlagen.</ChunkSchist.description>
+
+  <BlocksSchist.label>Glimmersteinblöcke</BlocksSchist.label>
+  <BlocksSchist.description>Blöcke aus festem Glimmerschiefer. Ein recht weicher Stein.</BlocksSchist.description>
+  <BlocksSchist.stuffProps.stuffAdjective>Glimmer</BlocksSchist.stuffProps.stuffAdjective>
+
+
+  <!-- Gabbro -->
+
+  <Gabbro.label>Gabbro</Gabbro.label>
+  <Gabbro.description>Ein dichtes Eruptivgestein, das durch die langsame Abkühlung von Magma gebildet wurde und normalerweise auf dem Meeresgrund zu finden ist.</Gabbro.description>
+
+  <SmoothedGabbro.label>Geglätteter Gabbro</SmoothedGabbro.label>
+  <SmoothedGabbro.description>Ein dichtes Eruptivgestein, das durch die langsame Abkühlung von Magma gebildet wurde und normalerweise auf dem Meeresgrund zu finden ist. Es wurde bis zu einem leuchtenden Glanz poliert.</SmoothedGabbro.description>
+
+  <ChunkGabbro.label>Gabbrobrocken</ChunkGabbro.label>
+  <ChunkGabbro.description>Ein Felsbrocken. Man kann hier Steinblöcke herausschlagen.</ChunkGabbro.description>
+
+  <BlocksGabbro.label>Gabbroblöcke</BlocksGabbro.label>
+  <BlocksGabbro.description>Blöcke aus festem Gabbro. Ein sehr hartes Gestein.</BlocksGabbro.description>
+  <BlocksGabbro.stuffProps.stuffAdjective>Gabbro</BlocksGabbro.stuffProps.stuffAdjective>
+
+
+  <!-- Diorite -->
+
+  <Diorite.label>Diorit</Diorite.label>
+  <Diorite.description>Diorit ist ein extrem hartes Magmagestein und liegt in seiner Zusammensetzung zwischen Granit und Gabbro. Es ist auch ein kompositionelles Äquivalent zu Andesit.</Diorite.description>
+
+  <SmoothedDiorite.label>Geglätteter Diorit</SmoothedDiorite.label>
+  <SmoothedDiorite.description>Diorit ist ein extrem hartes Magmagestein und liegt in seiner Zusammensetzung zwischen Granit und Gabbro. Es ist auch ein kompositionelles Äquivalent zu Andesit. Seine Oberfläche nimmt einen strahlendes Weiss an, wenn man es glättet.</SmoothedDiorite.description>
+
+  <ChunkDiorite.label>Dioritbrocken</ChunkDiorite.label>
+  <ChunkDiorite.description>Ein Felsbrocken. Man kann hier Steinblöcke herausschlagen.</ChunkDiorite.description>
+
+  <BlocksDiorite.label>Dioritblöcke</BlocksDiorite.label>
+  <BlocksDiorite.description>Blöcke aus festem Diorit. Ein extrem hartes und dichtes Gestein.</BlocksDiorite.description>
+  <BlocksDiorite.stuffProps.stuffAdjective>Diorit</BlocksDiorite.stuffProps.stuffAdjective>
+
+
+  <!-- Dunite -->
+
+  <Dunite.label>Dunit</Dunite.label>
+  <Dunite.description>Ein Magmagestein, das zu über neunzig Prozent aus Olivin besteht, was zu seiner ausgeprägten grünen Farbe führt.</Dunite.description>
+
+  <SmoothedDunite.label>Geglätteter Dunit</SmoothedDunite.label>
+  <SmoothedDunite.description>Ein Magmagestein, das zu über neunzig Prozent aus Olivin besteht, was zu seiner ausgeprägten grünen Farbe führt. Wundervoll und solide geglättet.</SmoothedDunite.description>
+
+  <ChunkDunite.label>Dunitbrocken</ChunkDunite.label>
+  <ChunkDunite.description>Ein Felsbrocken. Man kann hier Steinblöcke herausschlagen.</ChunkDunite.description>
+
+  <BlocksDunite.label>Dunitblöcke</BlocksDunite.label>
+  <BlocksDunite.description>Blöcke aus festem Dunit, welcher jedoch relativ schnell bricht.</BlocksDunite.description>
+  <BlocksDunite.stuffProps.stuffAdjective>Dunit</BlocksDunite.stuffProps.stuffAdjective>
+
+
+  <!-- Pegmatite -->
+
+  <Pegmatite.label>Pegmatit</Pegmatite.label>
+  <Pegmatite.description>Ein hartes, magmatisches Gestein, das aus großen ineinandergreifenden Kristallen besteht.</Pegmatite.description>
+
+  <SmoothedPegmatite.label>Geglätteter Pegmatit</SmoothedPegmatite.label>
+  <SmoothedPegmatite.description>Ein hartes, magmatisches Gestein, das aus großen ineinandergreifenden Kristallen besteht. Poliert wirkt er recht eindrucksvoll.</SmoothedPegmatite.description>
+
+  <ChunkPegmatite.label>Pegmatitbrocken</ChunkPegmatite.label>
+  <ChunkPegmatite.description>Ein Felsbrocken. Man kann hier Steinblöcke herausschlagen.</ChunkPegmatite.description>
+
+  <BlocksPegmatite.label>Pegmatitblöcke</BlocksPegmatite.label>
+  <BlocksPegmatite.description>Blöcke aus festem Pegmatit. Er hält ein wenig aus.</BlocksPegmatite.description>
+  <BlocksPegmatite.stuffProps.stuffAdjective>Pegmatit</BlocksPegmatite.stuffProps.stuffAdjective>
+
+
+</LanguageData>

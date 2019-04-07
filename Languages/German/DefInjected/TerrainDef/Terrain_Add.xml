@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SPECIAL: Terrains from natural stones -->
+
+  <Claystone_Rough.label>Rauer Tonstein</Claystone_Rough.label>
+  <Claystone_Rough.description>Rauer, natürlicher Boden aus Tonstein.</Claystone_Rough.description>
+  <Claystone_RoughHewn.label>Grob behauener Tonstein</Claystone_RoughHewn.label>
+  <Claystone_RoughHewn.description>Grob geschnittener Boden aus Tonstein.</Claystone_RoughHewn.description>
+  <Claystone_Smooth.label>Glatter Tonstein</Claystone_Smooth.label>
+  <Claystone_Smooth.description>Geglätteter, natürlicher Boden aus Tonstein.</Claystone_Smooth.description>
+
+  <Andesite_Rough.label>Rauer Andesit</Andesite_Rough.label>
+  <Andesite_Rough.description>Rauer, natürlicher Boden aus Andesit.</Andesite_Rough.description>
+  <Andesite_RoughHewn.label>Grob behauener Andesit</Andesite_RoughHewn.label>
+  <Andesite_RoughHewn.description>Grob geschnittener Boden aus Andesit.</Andesite_RoughHewn.description>
+  <Andesite_Smooth.label>Glatter Andesit</Andesite_Smooth.label>
+  <Andesite_Smooth.description>Geglätteter, natürlicher Boden aus Andesit.</Andesite_Smooth.description>
+
+  <Syenite_Rough.label>Rauer Syenit</Syenite_Rough.label>
+  <Syenite_Rough.description>Rauer, natürlicher Boden aus Syenit.</Syenite_Rough.description>
+  <Syenite_RoughHewn.label>Grob behauener Syenit</Syenite_RoughHewn.label>
+  <Syenite_RoughHewn.description>Grob geschnittener Boden aus Syenit.</Syenite_RoughHewn.description>
+  <Syenite_Smooth.label>Glatter Syenit</Syenite_Smooth.label>
+  <Syenite_Smooth.description>Geglätteter, natürlicher Boden aus Syenit.</Syenite_Smooth.description>
+
+  <Gneiss_Rough.label>Rauer Gneiss</Gneiss_Rough.label>
+  <Gneiss_Rough.description>Rauer, natürlicher Boden aus Gneiss.</Gneiss_Rough.description>
+  <Gneiss_RoughHewn.label>Grob behauener Gneiss</Gneiss_RoughHewn.label>
+  <Gneiss_RoughHewn.description>Grob geschnittener Boden aus Gneiss.</Gneiss_RoughHewn.description>
+  <Gneiss_Smooth.label>Glatter Gneiss</Gneiss_Smooth.label>
+  <Gneiss_Smooth.description>Geglätteter, natürlicher Boden aus Gneiss.</Gneiss_Smooth.description>
+
+  <Quartzite_Rough.label>Rauer Quarzit</Quartzite_Rough.label>
+  <Quartzite_Rough.description>Rauer, natürlicher Boden aus Quarzit.</Quartzite_Rough.description>
+  <Quartzite_RoughHewn.label>Grob behauener Quarzit</Quartzite_RoughHewn.label>
+  <Quartzite_RoughHewn.description>Grob geschnittener Boden aus Quarzit.</Quartzite_RoughHewn.description>
+  <Quartzite_Smooth.label>Glatter Quarzit</Quartzite_Smooth.label>
+  <Quartzite_Smooth.description>Geglätteter, natürlicher Boden aus Quarzit.</Quartzite_Smooth.description>
+
+  <Schist_Rough.label>Rauer Glimmer</Schist_Rough.label>
+  <Schist_Rough.description>Rauer, natürlicher Boden aus Glimmerschiefer.</Schist_Rough.description>
+  <Schist_RoughHewn.label>Grob behauener Glimmerstein</Schist_RoughHewn.label>
+  <Schist_RoughHewn.description>Grob geschnittener Boden aus Glimmerschiefer.</Schist_RoughHewn.description>
+  <Schist_Smooth.label>Glatter Glimmerstein</Schist_Smooth.label>
+  <Schist_Smooth.description>Geglätteter, natürlicher Boden aus Glimmerschiefer.</Schist_Smooth.description>
+
+  <Gabbro_Rough.label>Rauer Gabbro</Gabbro_Rough.label>
+  <Gabbro_Rough.description>Rauer, natürlicher Boden aus Gabbro.</Gabbro_Rough.description>
+  <Gabbro_RoughHewn.label>Grob behauener Gabbro</Gabbro_RoughHewn.label>
+  <Gabbro_RoughHewn.description>Grob geschnittener Boden aus Gabbro.</Gabbro_RoughHewn.description>
+  <Gabbro_Smooth.label>Glatter Gabbro</Gabbro_Smooth.label>
+  <Gabbro_Smooth.description>Geglätteter, natürlicher Boden aus Gabbro.</Gabbro_Smooth.description>
+
+  <Diorite_Rough.label>Rauer Diorit</Diorite_Rough.label>
+  <Diorite_Rough.description>Rauer, natürlicher Boden aus Diorit.</Diorite_Rough.description>
+  <Diorite_RoughHewn.label>Grob behauener Diorit</Diorite_RoughHewn.label>
+  <Diorite_RoughHewn.description>Grob geschnittener Boden aus Diorit.</Diorite_RoughHewn.description>
+  <Diorite_Smooth.label>Glatter Diorit</Diorite_Smooth.label>
+  <Diorite_Smooth.description>Geglätteter, natürlicher Boden aus Diorit.</Diorite_Smooth.description>
+
+  <Dunite_Rough.label>Rauer Dunit</Dunite_Rough.label>
+  <Dunite_Rough.description>Rauer, natürlicher Boden aus Dunit.</Dunite_Rough.description>
+  <Dunite_RoughHewn.label>Grob behauener Dunit</Dunite_RoughHewn.label>
+  <Dunite_RoughHewn.description>Grob geschnittener Boden aus Dunit.</Dunite_RoughHewn.description>
+  <Dunite_Smooth.label>Glatter Dunit</Dunite_Smooth.label>
+  <Dunite_Smooth.description>Geglätteter, natürlicher Boden aus Dunit.</Dunite_Smooth.description>
+
+  <Pegmatite_Rough.label>Rauer Pegmatit</Pegmatite_Rough.label>
+  <Pegmatite_Rough.description>Rauer, natürlicher Boden aus Pegmatit.</Pegmatite_Rough.description>
+  <Pegmatite_RoughHewn.label>Grob behauener Pegmatit</Pegmatite_RoughHewn.label>
+  <Pegmatite_RoughHewn.description>Grob geschnittener Boden aus Pegmatit.</Pegmatite_RoughHewn.description>
+  <Pegmatite_Smooth.label>Glatter Pegmatit</Pegmatite_Smooth.label>
+  <Pegmatite_Smooth.description>Geglätteter, natürlicher Boden aus Pegmatit.</Pegmatite_Smooth.description>
+
+
+</LanguageData>

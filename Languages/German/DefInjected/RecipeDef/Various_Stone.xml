@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Claystone -->
+
+  <MakeStoneBlocksClaystone.label>Stelle Tonsteinblöcke her</MakeStoneBlocksClaystone.label>
+  <MakeStoneBlocksClaystone.description>Schneidet Tonstein in verwendbare Steinblöcke.</MakeStoneBlocksClaystone.description>
+  <MakeStoneBlocksClaystone.jobString>Bearbeitet Steine</MakeStoneBlocksClaystone.jobString>
+
+
+  <!-- Andesite -->
+
+  <MakeStoneBlocksAndesite.label>Stelle Andesitsteinblöcke her</MakeStoneBlocksAndesite.label>
+  <MakeStoneBlocksAndesite.description>Schneidet Andesit in verwendbare Steinblöcke.</MakeStoneBlocksAndesite.description>
+  <MakeStoneBlocksAndesite.jobString>Bearbeitet Steine</MakeStoneBlocksAndesite.jobString>
+
+
+  <!-- Syenite -->
+
+  <MakeStoneBlocksSyenite.label>Stelle Syenitsteinblöcke her</MakeStoneBlocksSyenite.label>
+  <MakeStoneBlocksSyenite.description>Schneidet Syenit in verwendbare Steinblöcke.</MakeStoneBlocksSyenite.description>
+  <MakeStoneBlocksSyenite.jobString>Bearbeitet Steine</MakeStoneBlocksSyenite.jobString>
+
+
+  <!-- Gneiss -->
+
+  <MakeStoneBlocksGneiss.label>Stelle Gneisssteinblöcke her</MakeStoneBlocksGneiss.label>
+  <MakeStoneBlocksGneiss.description>Schneidet Gneiss in verwendbare Steinblöcke.</MakeStoneBlocksGneiss.description>
+  <MakeStoneBlocksGneiss.jobString>Bearbeitet Steine</MakeStoneBlocksGneiss.jobString>
+
+
+  <!-- Quartzite -->
+
+  <MakeStoneBlocksQuartzite.label>Stelle Quarzitsteinblöcke her</MakeStoneBlocksQuartzite.label>
+  <MakeStoneBlocksQuartzite.description>Schneidet Quarzit in verwendbare Steinblöcke.</MakeStoneBlocksQuartzite.description>
+  <MakeStoneBlocksQuartzite.jobString>Bearbeitet Steine</MakeStoneBlocksQuartzite.jobString>
+
+
+  <!-- Schist -->
+
+  <MakeStoneBlocksSchist.label>Stelle Glimmersteinblöcke her</MakeStoneBlocksSchist.label>
+  <MakeStoneBlocksSchist.description>Schneidet Glimmerschiefer in verwendbare Steinblöcke.</MakeStoneBlocksSchist.description>
+  <MakeStoneBlocksSchist.jobString>Bearbeitet Steine</MakeStoneBlocksSchist.jobString>
+
+
+  <!-- Gabbro -->
+
+  <MakeStoneBlocksGabbro.label>Stelle Gabbrosteinblöcke her</MakeStoneBlocksGabbro.label>
+  <MakeStoneBlocksGabbro.description>Schneidet Gabbro in verwendbare Steinblöcke.</MakeStoneBlocksGabbro.description>
+  <MakeStoneBlocksGabbro.jobString>Bearbeitet Steine</MakeStoneBlocksGabbro.jobString>
+
+
+  <!-- Diorite -->
+
+  <MakeStoneBlocksDiorite.label>Stelle Dioritsteinblöcke her</MakeStoneBlocksDiorite.label>
+  <MakeStoneBlocksDiorite.description>Schneidet Diorit in verwendbare Steinblöcke.</MakeStoneBlocksDiorite.description>
+  <MakeStoneBlocksDiorite.jobString>Bearbeitet Steine</MakeStoneBlocksDiorite.jobString>
+
+
+  <!-- Dunite -->
+
+  <MakeStoneBlocksDunite.label>Stelle Dunitsteinblöcke her</MakeStoneBlocksDunite.label>
+  <MakeStoneBlocksDunite.description>Schneidet Dunit in verwendbare Steinblöcke.</MakeStoneBlocksDunite.description>
+  <MakeStoneBlocksDunite.jobString>Bearbeitet Steine</MakeStoneBlocksDunite.jobString>
+
+
+  <!-- Pegmatite -->
+
+  <MakeStoneBlocksPegmatite.label>Stelle Pegmatitsteinblöcke her</MakeStoneBlocksPegmatite.label>
+  <MakeStoneBlocksPegmatite.description>Schneidet Pegmatit in verwendbare Steinblöcke.</MakeStoneBlocksPegmatite.description>
+  <MakeStoneBlocksPegmatite.jobString>Bearbeitet Steine</MakeStoneBlocksPegmatite.jobString>
+
+
+</LanguageData>

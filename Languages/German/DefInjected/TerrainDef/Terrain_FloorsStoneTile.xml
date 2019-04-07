@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TileClaystone.label>Tonsteinfliese</TileClaystone.label>
+  <TileClaystone.description>Sorgfältig zugeschnittene Tonsteinplatten, für das Burg-Feeling. Sieht gut aus, aber es dauert eine Weile sie zu verlegen.</TileClaystone.description>
+
+  <FlagstoneClaystone.label>Tonsteinplatte</FlagstoneClaystone.label>
+  <FlagstoneClaystone.description>Grob geschnittene Tonsteinplatten. Nicht sonderlich schön, aber sie bieten eine sehr gute Oberfläche für Straßen und Wege. Kalksteinplatten abzureißen bringt keine Rohstoffe.</FlagstoneClaystone.description>
+
+  <TileAndesite.label>Andesitfliese</TileAndesite.label>
+  <TileAndesite.description>Sorgfältig zugeschnittene Andesitplatten, für das Burg-Feeling. Sieht gut aus, aber es dauert eine Weile sie zu verlegen.</TileAndesite.description>
+
+  <FlagstoneAndesite.label>Andesitplatte</FlagstoneAndesite.label>
+  <FlagstoneAndesite.description>Grob geschnittene Andesitplatten. Nicht sonderlich schön, aber sie bieten eine sehr gute Oberfläche für Straßen und Wege. Andesitplatten abzureißen bringt keine Rohstoffe.</FlagstoneAndesite.description>
+
+  <TileSyenite.label>Syenitfliese</TileSyenite.label>
+  <TileSyenite.description>Sorgfältig zugeschnittene Syenitplatten, für das Burg-Feeling. Sieht gut aus, aber es dauert eine Weile sie zu verlegen.</TileSyenite.description>
+
+  <FlagstoneSyenite.label>Syenitplatte</FlagstoneSyenite.label>
+  <FlagstoneSyenite.description>Grob geschnittene Syenitplatten. Nicht sonderlich schön, aber sie bieten eine sehr gute Oberfläche für Straßen und Wege. Syenitplatten abzureißen bringt keine Rohstoffe.</FlagstoneSyenite.description>
+
+  <TileGneiss.label>Gneissfliese</TileGneiss.label>
+  <TileGneiss.description>Sorgfältig zugeschnittene Gneissplatten, für das Burg-Feeling. Sieht gut aus, aber es dauert eine Weile sie zu verlegen.</TileGneiss.description>
+
+  <FlagstoneGneiss.label>Gneissplatte</FlagstoneGneiss.label>
+  <FlagstoneGneiss.description>Grob geschnittene Gneissplatten. Nicht sonderlich schön, aber sie bieten eine sehr gute Oberfläche für Straßen und Wege. Gneissplatten abzureißen bringt keine Rohstoffe.</FlagstoneGneiss.description>
+
+  <TileQuartzite.label>Quarzitfliese</TileQuartzite.label>
+  <TileQuartzite.description>Sorgfältig zugeschnittene Quarzitplatten, für das Burg-Feeling. Sieht gut aus, aber es dauert eine Weile sie zu verlegen.</TileQuartzite.description>
+
+  <FlagstoneQuartzite.label>Quarzitplatte</FlagstoneQuartzite.label>
+  <FlagstoneQuartzite.description>Grob geschnittene Quarzitplatten. Nicht sonderlich schön, aber sie bieten eine sehr gute Oberfläche für Straßen und Wege. Kalksteinplatten abzureißen bringt keine Rohstoffe.</FlagstoneQuartzite.description>
+
+  <TileSchist.label>Glimmersteinfliese</TileSchist.label>
+  <TileSchist.description>Sorgfältig zugeschnittene Glimmerschieferplatten, für das Burg-Feeling. Sieht gut aus, aber es dauert eine Weile sie zu verlegen.</TileSchist.description>
+
+  <FlagstoneSchist.label>Glimmersteinplatte</FlagstoneSchist.label>
+  <FlagstoneSchist.description>Grob geschnittene Glimmerschieferplatten. Nicht sonderlich schön, aber sie bieten eine sehr gute Oberfläche für Straßen und Wege. Glimmersteinplatten abzureißen bringt keine Rohstoffe.</FlagstoneSchist.description>
+
+  <TileGabbro.label>Gabbrofliese</TileGabbro.label>
+  <TileGabbro.description>Sorgfältig zugeschnittene Gabbroplatten, für das Burg-Feeling. Sieht gut aus, aber es dauert eine Weile sie zu verlegen.</TileGabbro.description>
+
+  <FlagstoneGabbro.label>Gabbroplatte</FlagstoneGabbro.label>
+  <FlagstoneGabbro.description>Grob geschnittene Gabbroplatten. Nicht sonderlich schön, aber sie bieten eine sehr gute Oberfläche für Straßen und Wege. Gabbroplatten abzureißen bringt keine Rohstoffe.</FlagstoneGabbro.description>
+
+  <TileDiorite.label>Dioritfliese</TileDiorite.label>
+  <TileDiorite.description>Sorgfältig zugeschnittene Dioritplatten, für das Burg-Feeling. Sieht gut aus, aber es dauert eine Weile sie zu verlegen.</TileDiorite.description>
+
+  <FlagstoneDiorite.label>Dioritplatte</FlagstoneDiorite.label>
+  <FlagstoneDiorite.description>Grob geschnittene Dioritplatten. Nicht sonderlich schön, aber sie bieten eine sehr gute Oberfläche für Straßen und Wege. Dioritplatten abzureißen bringt keine Rohstoffe.</FlagstoneDiorite.description>
+
+  <TileDunite.label>Dunitfliese</TileDunite.label>
+  <TileDunite.description>Sorgfältig zugeschnittene Dunitplatten, für das Burg-Feeling. Sieht gut aus, aber es dauert eine Weile sie zu verlegen.</TileDunite.description>
+
+  <FlagstoneDunite.label>Dunitplatte</FlagstoneDunite.label>
+  <FlagstoneDunite.description>Grob geschnittene Dunitplatten. Nicht sonderlich schön, aber sie bieten eine sehr gute Oberfläche für Straßen und Wege. Dunitplatten abzureißen bringt keine Rohstoffe.</FlagstoneDunite.description>
+
+  <TilePegmatite.label>Pegmatitfliese</TilePegmatite.label>
+  <TilePegmatite.description>Sorgfältig zugeschnittene Pegmatitplatten, für das Burg-Feeling. Sieht gut aus, aber es dauert eine Weile sie zu verlegen.</TilePegmatite.description>
+
+  <FlagstonePegmatite.label>Pegmatitplatte</FlagstonePegmatite.label>
+  <FlagstonePegmatite.description>Grob geschnittene Pegmatitplatten. Nicht sonderlich schön, aber sie bieten eine sehr gute Oberfläche für Straßen und Wege. Pegmatitplatten abzureißen bringt keine Rohstoffe.</FlagstonePegmatite.description>
+
+</LanguageData>
